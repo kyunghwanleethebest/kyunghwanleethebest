@@ -14,9 +14,10 @@
 
 ### Project
 
-- 해외영수증 처리 웹앱 만들기 - NAVER AI Burning Day (2020.02)
-- 차량 데이터 분석을 통한 음악 추천 시스템 개발 - Hyundai Motors Corporation(2020.07~)
-- TensorFlow Lite for Micro controller Project - 오픈 소스 컨트리뷰톤 (2020.08- 2020.09)
+- 해외영수증 처리 웹앱 만들기 - NAVER AI Burning Day 본선 (2020.02)
+- Kakao Arena -Melon Playlist Continuation 최종 리더보드 순위 12위 (2020.05~2020.07)
+- 차량 데이터 분석을 통한 음악 추천 시스템 개발 - Hyundai Motors Corporation (2020.07~)
+- TensorFlow Lite for Micro controller Project - 오픈 소스 컨트리뷰톤 특별상(2020.08- 2020.09)
 - 야구 잔여경기 승률, 타율, 방어율 예측 - 빅콘테스트 2020 (2020.07-2020.09) 
 
 
@@ -40,5 +41,5 @@
 ### Interest
 
 - ML/DL Engineering (Research Engineering)
-- NLP / Textmining
+- NLP / Textmining (Text Classification, Sentiment Analysis, Chatbot)
 - Recommend System
