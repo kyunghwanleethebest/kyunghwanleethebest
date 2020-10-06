@@ -1,6 +1,6 @@
 # Kyunghwan Lee
 
-### Wanna be great AI + Back-End Engineer
+### Wanna be great AI/ML + Back-End Engineer
 
 
 
@@ -42,5 +42,5 @@
 ### Interest
 
 - ML/DL Engineering (Research Engineering)
-- NLP / Textmining (Text Classification, Sentiment Analysis, Chatbot)
-- Recommend System
+- NLP / Textmining (Text Classification, Sentiment Analysis, Chatbot, Language Model)
+- Recommender System
