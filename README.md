@@ -6,6 +6,7 @@
 
 ### Education
 
+- Google Machine Learning Engineer Boot Camp (2020.10~)
 - M.S. in Digital Analytics, Yonsei Univ (2020.01~)
 - SSAFY-Samsung Software Academy For Youth (2019.07~2019.12)
 - B.S. in English Language&Literature, Global Business & Culture, Hanyang Univ (2013.03~2019.08)
