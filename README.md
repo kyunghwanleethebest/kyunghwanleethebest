@@ -18,9 +18,9 @@
 - 해외영수증 처리 웹앱 만들기 - NAVER AI Burning Day 본선 (2020.02)
 - Melon Playlist Continuation - Kakao Arena 3회 대회 최종 리더보드 순위 상위 1.5% (2020.05~2020.07)
 - 차량 데이터 분석을 통한 음악 추천 시스템 개발 - Hyundai Motors Corporation (2020.07~)
-- TensorFlow Lite for Micro Controller Project - 오픈 소스 컨트리뷰톤 특별상(2020.08- 2020.09)
+- TensorFlow Lite for Micro Controller Project - 오픈 소스 컨트리뷰톤 특별상 / 데이터분석 컨퍼런스 '데이터야놀자' 출전(2020.08- 2020.09)
 - 야구 잔여경기 승률, 타율, 방어율 예측 - 빅콘테스트 2020 (2020.07-2020.09) 
-- 주식거래내역으로 매수 상위종목 예측 - 미래에셋 머신러닝 경진대회 (2020.09-2020.10)
+- 주식거래내역으로 매수 상위종목 예측 - 미래에셋 머신러닝 경진대회 본선 진출 (2020.09-2020.10)
 
 
 
@@ -36,12 +36,13 @@
 - Main Language : Python
 - Web : Django, Flask
 - Data: Python, Julia, SQL
-- Trying to use Linux, Hadoop, Spark, Kotlin, JavaScript, C
+- A little knowledge in Linux, Hadoop, Spark, Kotlin, JavaScript, C
+- A little knowledge in Docker, Kubeflow
 
 
 
 ### Interest
 
 - ML/DL Engineering (Research Engineering)
-- NLP / Textmining (Text Classification, Sentiment Analysis, Chatbot, Language Model)
+- NLP / Text Mining (Text Classification, Sentiment Analysis, Chatbot, Language Model)
 - Recommender System
