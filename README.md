@@ -17,10 +17,10 @@
 
 - 차량 데이터 분석을 통한 음악 추천 시스템 개발 - 현대자동차 인포테인먼트팀 (2020.06 - 2020.12)
 - 해외영수증 처리 웹앱 만들기 - NAVER AI Burning Day 본선 진출 (2020.01 - 2020.02)
-- Melon Playlist Continuation - Kakao Arena 3회 대회 최종 리더보드 순위 상위 1.5% (2020.05 - 2020.07)
-- TensorFlow Lite for Micro Controller Project - 오픈 소스 컨트리뷰톤 특별상 / 데이터분석 컨퍼런스 '데이터야놀자' 출전(2020.08 - 2020.09)
-- 야구 잔여경기 승률, 타율, 방어율 예측 - 빅콘테스트 2020 (2020.07 - 2020.09) 
-- 주식거래내역으로 매수 상위종목 예측 - 미래에셋 머신러닝 경진대회 본선 / 결선 진출 (2020.09 - 2020.10)
+- [Melon Playlist Continuation](https://github.com/Hey-Google/kakao_arena) - Kakao Arena 3회 대회 최종 리더보드 순위 상위 1.5% (2020.05 - 2020.07)
+- [TensorFlow Lite for Micro Controller Project](https://github.com/yunho0130/tensorflow-lite) - 오픈 소스 컨트리뷰톤 특별상 / 데이터분석 컨퍼런스 '데이터야놀자' 출전(2020.08 - 2020.09)
+- [야구 잔여경기 승률, 타율, 방어율 예측](https://github.com/kyunghwanleethebest/bigcontest10027) - 빅콘테스트 2020 (2020.07 - 2020.09) 
+- [주식거래내역으로 매수 상위종목 예측](https://github.com/kyunghwanleethebest/MA_Competition) - 미래에셋 머신러닝 경진대회 본선 / 결선 진출 (2020.09 - 2020.10)
 
 
 
