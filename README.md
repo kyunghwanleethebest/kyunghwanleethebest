@@ -35,10 +35,11 @@
 ### Skills
 
 - Main Language : Python
-- Data: Keras, PyTorch, Julia, SQL
+- Data: Keras, PyTorch, SQL
 - Web : Django, Flask
-- A little knowledge in Linux, Hadoop, Spark, Kotlin, JavaScript, C, TensorFlow
-- A little knowledge in Docker, Kubeflow
+- A little knowledge in Linux, Hadoop, TensorFlow, Julia
+
+  
 
 
 
