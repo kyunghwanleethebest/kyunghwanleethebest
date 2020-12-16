@@ -20,7 +20,7 @@
 - [Melon Playlist Continuation](https://github.com/Hey-Google/kakao_arena) - Kakao Arena 3회 대회 최종 리더보드 순위 상위 1.5% (2020.05 - 2020.07)
 - [TensorFlow Lite for Micro Controller Project](https://github.com/yunho0130/tensorflow-lite) - 오픈 소스 컨트리뷰톤 특별상 / 데이터분석 컨퍼런스 '데이터야놀자' 출전(2020.08 - 2020.09)
 - [야구 잔여경기 승률, 타율, 방어율 예측](https://github.com/kyunghwanleethebest/bigcontest10027) - 빅콘테스트 2020 과학기술정보통신부장관상 수상 (2020.07 - 2020.09) 
-- [주식거래내역으로 매수 상위종목 예측](https://github.com/kyunghwanleethebest/MA_Competition) - 미래에셋 머신러닝 경진대회 본선 / 결선 진출 (장려상 - 최종 3위) (2020.09 - 2020.10)
+- [주식거래내역으로 매수 상위종목 예측](https://github.com/kyunghwanleethebest/MA_Competition) - 미래에셋 머신러닝 경진대회 장려상 수상 (최종 3위) (2020.09 - 2020.10)
 
 
 
